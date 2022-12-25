@@ -1,5 +1,5 @@
 #CODING BY UTF-8
-#AlpinCompiler
+#Bubub Id
 #Ngerip Sc Ini Gw Buat Mati
 
 import os, sys, time, re, json, requests, bs4, random, calendar, datetime,subprocess, logging
@@ -73,7 +73,7 @@ def banner():
 	print('''%s
 CR-CR
 __________________________________________________________________________________________________________________________
- [\x1b[1;96m+%s] Author   : FADIL X MBE
+ [\x1b[1;96m+%s] Author   : Bubub Id
  [\x1b[1;96m+%s] Github   : github.com/Jail-XD
  [\x1b[1;95m+%s] Facebook : Mau.ngapain.bang.copy.ya
  [\x1b[1;94m+%s] suport kartu : [ axis,Xl,3]
